@@ -50,12 +50,12 @@ Endpoints include:
 └── README.md
 
 Installation
-  git clone <https://github.com/barki56/Data-Driven-Domestic-Energy-Optimization-with-ML-Forecasts-Cost--and-Carbon-Aware-Scheduling/blob/main/README.md>
+  git clone <https://github.com/barki56/Data-Driven-Domestic-Energy-Optimization-with-ML-Forecasts-Cost--and-Carbon-Aware-Scheduling.git>
   cd <Data-Driven-Domestic-Energy-Optimization-with-ML-Forecasts-Cost--and-Carbon-Aware-Scheduling>
   pip install -r requirements.txt
 
 Run the API
-  git clone <https://github.com/barki56/Data-Driven-Domestic-Energy-Optimization-with-ML-Forecasts-Cost--and-Carbon-Aware-Scheduling/blob/main/README.md>
+  git clone <https://github.com/barki56/Data-Driven-Domestic-Energy-Optimization-with-ML-Forecasts-Cost--and-Carbon-Aware-Scheduling.git>
   cd <Data-Driven-Domestic-Energy-Optimization-with-ML-Forecasts-Cost--and-Carbon-Aware-Scheduling>
   pip install -r requirements.txt
 
