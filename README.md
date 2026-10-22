@@ -72,7 +72,21 @@ The Streamlit dashboard has four sections:
 - **Optimisation Recommendations**: pick an appliance and time window to get the best hour, with an hourly cost and carbon breakdown
 - **Residuals Analysis**: where the model's errors are, and whether they're biased
 
+**Overview & Trends:** consumption, cost and carbon over time across all households
+![Overview](screenshots/01_overview_trends.png)
 
+**Individual Prediction:** enter weather and property details and get a live forecast from the API
+![Prediction](screenshots/02_individual_prediction.png)
+
+**Optimisation Recommendations:** choose an appliance and a flexible time window, set your cost vs carbon priority, and get the best hour to run it
+![Optimisation inputs](screenshots/03_optimisation_inputs.png)
+![Optimal time](screenshots/04_optimal_time_result.png)
+![Hourly breakdown](screenshots/05_cost_carbon_breakdown.png)
+
+**Residuals Analysis:** errors are tightly centred on zero with no obvious bias
+![Residuals](screenshots/06_residuals_distribution.png)
+
+[See all screenshots](screenshots/)
 
 
 ## Running it
