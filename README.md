@@ -72,7 +72,8 @@ The Streamlit dashboard has four sections:
 - **Optimisation Recommendations**: pick an appliance and time window to get the best hour, with an hourly cost and carbon breakdown
 - **Residuals Analysis**: where the model's errors are, and whether they're biased
 
-<!-- Add screenshots here, e.g. ![Dashboard](screenshots/dashboard.png) -->
+
+
 
 ## Running it
 
